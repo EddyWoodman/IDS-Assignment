@@ -1,7 +1,7 @@
 # IDS-Assignment
 Repository für unsere Assignments
 
-# Assignment 1
+## Assignment 1
 TODOs:
 - [ ] Preprocessing of the Data set
 - [ ] Insight into the Data
